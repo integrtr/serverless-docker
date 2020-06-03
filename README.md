@@ -1,2 +1,4 @@
 # serverless-docker
-Base Image to package lambda or server-less node applications to Docker
+
+Base image to package lambda or [serverless](https://www.npmjs.com/package/serverless) applications to Docker.
+
