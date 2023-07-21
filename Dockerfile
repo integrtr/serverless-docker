@@ -1,4 +1,4 @@
-FROM node:12-alpine
+FROM node:18.16.1-alpine3.18
 
 LABEL maintainer="integrtr <info@integrtr.com>"
 
